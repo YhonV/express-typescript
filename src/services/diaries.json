@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "date": "2019-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment":"Pretty scary flight, I thought we were going to crash!"
+    },
+    {
+        "id": 2,
+        "date": "2019-01-02",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment":"Smooth flight, no complaints"
+    },
+    {
+        "id": 3,
+        "date": "2019-01-03",
+        "weather": "windy",
+        "visibility": "good",
+        "comment":"A bit bumpy at times, but I had a good nap!"
+    }
+]
